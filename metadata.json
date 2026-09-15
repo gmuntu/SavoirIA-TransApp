@@ -1,0 +1,6 @@
+{
+  "name": "Stitch & Pad Lecture Dubber",
+  "description": "Production-grade audio dubbing and timeline synchronization app for long-form CS lectures with Python 3.13 macOS Thomas neural voice engine and Filmora integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
